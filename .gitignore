@@ -7,3 +7,11 @@ data/raw/*
 __pycache__/
 .DS_Store
 Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
+# Virtual environments
+.venv/
+venv/
