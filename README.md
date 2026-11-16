@@ -128,9 +128,9 @@ These are descriptive comparisons. Discount level may be related to product mix,
 
 ### Power BI Executive Overview
 
-![Power BI Executive Overview](reports/dashboard_screenshots/powerbi_executive_overview.png)
+![Power BI Executive Overview](reports/dashboard_screenshots/Power_BI_Executive_Overview.png)
 
-[Open the full-size dashboard screenshot](reports/dashboard_screenshots/powerbi_executive_overview.png)
+[Open the full-size dashboard screenshot](reports/dashboard_screenshots/Power_BI_Executive_Overview.png)
 
 The Excel workbook is available at [`excel/Customer_Profitability_Dashboard.xlsx`](excel/Customer_Profitability_Dashboard.xlsx). The theme JSON is available at [`powerbi/theme/Customer_Profitability_Theme.json`](powerbi/theme/Customer_Profitability_Theme.json). Add fresh screenshots after confirming that all KPI formulas and charts display correctly.
 
